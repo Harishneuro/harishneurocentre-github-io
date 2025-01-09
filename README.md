@@ -33,6 +33,7 @@ He uses state-of-the-art technology such as MRI, CT scans, and EEG to accurately
 
 ### **Contact Dr. Harish**
 
-- **Location**: [Insert Clinic Name/Address in Vijayawada]
-- **Phone**: [Insert Contact Number]
-- **Email**: [Insert Email Address]
+- **Location**: 57-7-23/1, Kakateeya Road, Near Sonovision, Patamata, Vijayawada,
+Andhra pradesh - 520010.
+- **Phone**: +91 7893122124
+- **Email**: hnc2023vijayawada@gmail.com
